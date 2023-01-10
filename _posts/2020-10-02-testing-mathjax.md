@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 자바가 사람잡다
-tags: 패스트캠퍼스 국비지원교육 메가바이트스쿨 MegabyteSchool 개발자취업부트캠프 내일배움카드 
+tags: 패스트캠퍼스 메가바이트스쿨 MegabyteSchool 개발자취업부트캠프 
 math: true
 date: 2023-01-10 15:32 +0800
 ---
