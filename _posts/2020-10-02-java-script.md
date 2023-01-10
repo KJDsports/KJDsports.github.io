@@ -1,12 +1,13 @@
 ---
 layout: post
-title: create new blog
-tags: - 패스트캠퍼스
-      - 메가바이트스쿨
-      - MegabyteSchool
-      - 개발자취업부트캠프 
-date: 2023-01-10 15:32 +0800
+title: Releasing Not Pure Poole v0.1.0
+author: Songzi Vong
+tags:
+- jekyll theme
+- jekyll
+date: 2020-10-01 13:56 +0800
 ---
+
 ## 블로그를 다시 만들기
 이전에 만든 깃허브 블로그가 글을 작성하기가 너무 힘들고, 오류가 많이 나서 개발블로그를 다시 만들었다.<br>
 이 과정에서 **2일**이나 허비해야만 했다. 만드는 과정에서도 어려움이 많아서 **구글링**을 통해 도움을 많이 받았다.<br>
