@@ -5,7 +5,7 @@ url: https://KJDsports.github.io
 avatar: /abata.jpg
 paginate: 5
 permalink: pretty
-cover_image: /conor.webp
+cover_image: /bg.jpeg
 
 # Gems
 plugins:
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: JD KIM
   card: summary
-logo: logo.png
+logo: abata.jpg
 social:
-  name: Songzi Vong
+  name: JD Kim
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://kjdsports.github.io/
+    - https://kjdsports.github.io/
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: JD Kim
+  url: https://kjdsports.github.io/
+  email: xndo@hanmail.net
