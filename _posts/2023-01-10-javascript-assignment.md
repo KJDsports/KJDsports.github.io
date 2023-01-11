@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 자바가 사람잡다
+title: create new blog
 tags: - 패스트캠퍼스
       - 메가바이트스쿨
       - MegabyteSchool
