@@ -1,10 +1,7 @@
 ---
 layout: post
 title: create new blog
-tags: - 패스트캠퍼스
-      - 메가바이트스쿨
-      - MegabyteSchool
-      - 개발자취업부트캠프 
+tags: - MegabyteSchool 
 date: 2023-01-10 15:32 +0800
 ---
 ## 블로그를 다시 만들기
