@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
-author: Songzi Vong
+title: 23년 1월 1주(블로그, 과제)
+author: JD
 tags:
-- jekyll theme
-- jekyll
-date: 2020-10-01 13:56 +0800
+- 메가바이트스쿨
+- Megabyte shcool
+date: 2023-01-10 13:56 +0800
 ---
 
 <strong>블로그를 다시 만들기</strong>
